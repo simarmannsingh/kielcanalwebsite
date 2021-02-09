@@ -5,7 +5,7 @@
 
 This is an official repository for the Kiel Canal Game's Website. The game was created as part of a project to be displayed to open public at the Muesem.
 
-![KielCanal Website](https://github.com/simarmannsingh/kielcanalwebsite/blob/master/kielcanalwebsite.png)
+![KielCanal Website](https://github.com/simarmannsingh/kielcanalwebsite/blob/main/kielcanalwebsite.png)
 
 
 ## How to play
