@@ -1,0 +1,8 @@
+Contact: mailto:contact@kielcanalgame.com
+Encryption: https://kielcanalgame.de/.well-known/pgp_public.txt
+Encryption: https://kielcanalgame.de/.well-known/pgp_public.asc
+Preferred-Languages: en
+Canonical: https://kielcanalgame.de/.well-known/security.txt
+SHA256SUM for pgp_public.asc file: 1fdfa03a346a7f55e41867010ece2940ce1ceec2f7e625f6723494849f835bce
+
+
