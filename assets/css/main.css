@@ -1907,6 +1907,22 @@ input, select, textarea {
 			opacity: 0.25;
 		}
 
+		.scroll-to-top::before{
+			padding: 7px;
+			background: rgb(172, 170, 170);
+			border-radius: 35%;
+			opacity: 0.35;
+			align-items: center;
+			justify-content: center;
+			width: 2.3em;
+			height: 2.3em;
+			position: fixed;
+			content: url('/images/chevron-up-solid.svg');
+			right: 1em;
+			bottom: 1em;
+			cursor: pointer;
+		}
+
 		@media screen and (max-width: 480px) {
 
 			input[type="submit"].icon,
