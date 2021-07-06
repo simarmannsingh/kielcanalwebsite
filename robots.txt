@@ -1,0 +1,4 @@
+User-agent: *
+{% comment %} Disallow: /img/ {% endcomment %}
+Disallow: /.well-known/
+Sitemap: https://kielcanalgame.de/sitemap.xml

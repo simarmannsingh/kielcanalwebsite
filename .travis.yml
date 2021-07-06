@@ -1,0 +1,21 @@
+language: node_js
+node_js:
+  - "stable"
+cache: npm
+
+install:
+  - npm ci
+
+script:
+  - npm test
+
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN 
+  keep_history: true
+  email: simarmannsingh@gmail.com
+  name: simarmannsingh
+  on:
+    branch: main
