@@ -5,7 +5,7 @@
 
 This is an official repository for the Kiel Canal Game's Website. The game was created as part of a project to be displayed to open public at the Muesem.
 
-![KielCanal Website](https://github.com/simarmannsingh/kielcanalwebsite/blob/master/images/Kielcanalwebsite.png)
+![KielCanal Website](https://github.com/simarmannsingh/kielcanalwebsite/blob/main/kielcanalwebsite.png)
 
 
 ## How to play
@@ -14,7 +14,7 @@ To play the game, you simply have to visit the link mentioned on the right side 
 
 You can use arrow keys to navigate the ship and find your way through the map, reaching the goal within time limit.
 
-#### Note
+### Note
 
 At any point of time, if you get Stuck, press the **Right-Shift** key and a map menu will open using which you can localize yourself in the game world and navigate till the finish line.
 
