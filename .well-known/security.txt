@@ -1,8 +1,10 @@
-Contact: mailto:contact@kielcanalgame.com
-Encryption: https://kielcanalgame.de/.well-known/pgp_public.txt
-Encryption: https://kielcanalgame.de/.well-known/pgp_public.asc
+Contact: mailto:contact@simarmannsingh.com
+Encryption: https://simarmannsingh.com/.well-known/pgp_public.txt
+Encryption: https://simarmannsingh.com/.well-known/pgp_public.asc
 Preferred-Languages: en
-Canonical: https://kielcanalgame.de/.well-known/security.txt
-SHA256SUM for pgp_public.asc file: 1fdfa03a346a7f55e41867010ece2940ce1ceec2f7e625f6723494849f835bce
+Canonical: https://simarmannsingh.com/.well-known/security.txt
+SHA256SUM for pgp_public.asc file: 3739a5e43620dde8ae624aaa580700079f95b5d808b1acaad94a35798daa0cc8
+SHA256SUM for pgp_public.txt file: 4368354afb1c5e3823218994ccd5fd6436460462ab8fee666ef8ff7975a3aabb
+Fingerprint for pgp_public.asc file: F9A0 0F5F E43E 9C89 B7EF 46C0 29CE F2A6 A783 BD5A
 
 
